@@ -18,11 +18,6 @@ This project analyzes job market trends by scraping job boards like Indeed, Link
 
 ---
 
-### **Skills Covered**:
-
-- **Web Scraping**: Collecting data from job boards like **Indeed**, **LinkedIn**, and **Glassdoor**.
-- **Data Aggregation and Analysis**: Aggregating job data by industry, location, and skills, and performing analysis on skill demand and job trends.
-- **Data Visualization**: Building dashboards with **Power BI** or **Tableau** to present insights on job market trends.
 
 ---
 
