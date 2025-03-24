@@ -58,3 +58,8 @@ This project analyzes job market trends by scraping job boards like Indeed, Link
 10. **Rise of Emerging Industries**:
 - Emerging fields such as **sustainability**, **green technologies**, and **renewable energy** are seeing an increase in job postings. There is growing demand for professionals skilled in **environmental science**, **energy management**, and **sustainable business practices**.
 - The **fintech** sector is also rapidly growing, with demand for roles like **blockchain developers**, **digital wallets managers**, and **cryptocurrency analysts**.
+- 
+
+
+####![Screenshot 2025-03-24 063143](https://github.com/user-attachments/assets/81c010d2-8aed-45ee-973d-bf0f0cc93afc)
+
