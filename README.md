@@ -63,3 +63,6 @@ This project analyzes job market trends by scraping job boards like Indeed, Link
 
 ####![Screenshot 2025-03-24 063143](https://github.com/user-attachments/assets/81c010d2-8aed-45ee-973d-bf0f0cc93afc)
 
+####
+![Screenshot 2025-03-24 063227](https://github.com/user-attachments/assets/02cf2993-864b-4335-ab3a-aff49658ab8b)
+
